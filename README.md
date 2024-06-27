@@ -3,9 +3,8 @@
 
 ## Overview
 The Currency Converter is a web application built with React that allows users to convert values between different currencies. This project demonstrates the use of React Hooks, state management, and fetching data from an external API.
-## Live Link:
-CheckOut ![Live]([./image.png](https://currency-converter-react-one.vercel.app/))
-https://currency-converter-react-one.vercel.app/
+## Live Link: https://currency-converter-react-one.vercel.app/
+
 
 ![Currency Converter](./image.png)
 
